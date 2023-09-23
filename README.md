@@ -19,6 +19,8 @@ This to-do list project reflects my journey as a student developer, where learni
 
 <br>
 <img src="./img/1.png" alt="bg">
+<br>
+<h3><a href="#">Confira este projeto</a></h3>
 
 
 
