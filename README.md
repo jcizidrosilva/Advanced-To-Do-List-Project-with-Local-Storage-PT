@@ -17,7 +17,8 @@ Accessibility Aspiration: While I'm still learning about accessibility, I've tak
 
 This to-do list project reflects my journey as a student developer, where learning by doing is my mantra. I invite you to explore this project, warts and all, as a testament to my growth and commitment to improving my skills. Your feedback and support are incredibly valuable as I continue on this exciting path of web development.
 
-
+<br>
+<img src="./img/1.png" alt="bg">
 
 
 
